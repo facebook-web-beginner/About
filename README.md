@@ -5,7 +5,7 @@
 
 <p>Bienvenue parmi nous, ce repo va t'indiquer tout ce qu'il faut savoir à propos de nous.</p>
 
-<p>Le repository de cette organisation sont le fruit d'un travail conçus par différents collaborateurs désirant laissez libre cours à leurs créativité. </p>
+<p>Les repository de cette organisation sont le fruit d'un travail conçus par différents collaborateurs désirant laissez libre cours à leurs créativité. </p>
 
 <ul> Les langages actuels utilisées sont : <br>
   
